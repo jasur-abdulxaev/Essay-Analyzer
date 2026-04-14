@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Essaychi.API/Essaychi.API.csproj" />
+  <Project Path="Essaychi.Application/Essaychi.Application.csproj" />
+  <Project Path="Essaychi.Domain/Essaychi.Domain.csproj" />
+  <Project Path="Essaychi.Infrastructure/Essaychi.Infrastructure.csproj" />
+</Solution>

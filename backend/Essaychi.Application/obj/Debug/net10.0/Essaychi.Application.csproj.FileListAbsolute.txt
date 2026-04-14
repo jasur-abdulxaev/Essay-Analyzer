@@ -1,0 +1,15 @@
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\bin\Debug\net10.0\Essaychi.Application.deps.json
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\bin\Debug\net10.0\Essaychi.Application.dll
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\bin\Debug\net10.0\Essaychi.Application.pdb
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\bin\Debug\net10.0\Essaychi.Domain.dll
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\bin\Debug\net10.0\Essaychi.Domain.pdb
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\Essaychi.Application.csproj.AssemblyReference.cache
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\Essaychi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\Essaychi.Application.AssemblyInfoInputs.cache
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\Essaychi.Application.AssemblyInfo.cs
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\Essaychi.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\Essaychi.C4008BF6.Up2Date
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\Essaychi.Application.dll
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\refint\Essaychi.Application.dll
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\Essaychi.Application.pdb
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Application\obj\Debug\net10.0\ref\Essaychi.Application.dll

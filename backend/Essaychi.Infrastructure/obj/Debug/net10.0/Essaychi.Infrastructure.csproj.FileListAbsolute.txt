@@ -1,0 +1,17 @@
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\Essaychi.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\Essaychi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\Essaychi.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\Essaychi.Infrastructure.AssemblyInfo.cs
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\Essaychi.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\bin\Debug\net10.0\Essaychi.Infrastructure.deps.json
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\bin\Debug\net10.0\Essaychi.Infrastructure.dll
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\bin\Debug\net10.0\Essaychi.Infrastructure.pdb
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\bin\Debug\net10.0\Essaychi.Application.dll
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\bin\Debug\net10.0\Essaychi.Domain.dll
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\bin\Debug\net10.0\Essaychi.Application.pdb
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\bin\Debug\net10.0\Essaychi.Domain.pdb
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\Essaychi.A481C6FC.Up2Date
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\Essaychi.Infrastructure.dll
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\refint\Essaychi.Infrastructure.dll
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\Essaychi.Infrastructure.pdb
+D:\Projects\Repositories\Essay analizer\backend\Essaychi.Infrastructure\obj\Debug\net10.0\ref\Essaychi.Infrastructure.dll
